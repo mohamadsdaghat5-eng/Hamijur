@@ -12,9 +12,11 @@ section {
        }
  h1 {
        color: #04AA6D;
+       text-align: center;
        }
  p {
        color: white;
+       text-align: center;
       }
   button {
       background:#04AA6D;
